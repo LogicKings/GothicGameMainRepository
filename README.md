@@ -31,4 +31,4 @@ They can become strong and powerful like mighty alpha demon slayers. But they ar
 
 The kingdom knights try to reach heaven on earth and ascend in their noble orders to become angels.
 
-COPYRIGHT: smokescreenveil. Current.
+COPYRIGHT and RESTRICTED USE TO: smokescreenveil. Current.
