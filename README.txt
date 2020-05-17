@@ -1,3 +1,4 @@
+COPYRIGHT and RESTRICTED USE TO: smokescreenveil. Current.
 
 The timeline is in knight / barbarian times. Gothic times. The sword / axe / armor reign.
 There are kings, queens, angels, demons.
