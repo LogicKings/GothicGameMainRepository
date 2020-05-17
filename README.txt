@@ -1,4 +1,3 @@
-# Game Design Document. Owned by smokescreenveil
 
 The timeline is in knight / barbarian times. Gothic times. The sword / axe / armor reign.
 There are kings, queens, angels, demons.
