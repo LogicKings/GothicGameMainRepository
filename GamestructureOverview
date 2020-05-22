@@ -1,0 +1,38 @@
+Copyright and restricted use to Smokescreenveil
+
+Entity-component: Entity class: List of components in each entity, and each entity needs to know how to update and render itself.
+
+Entity Manager clas that adds and gets entities.
+
+Component class which sub-components inherit from. the sub components override the update and render of component class.
+
+Each component needs to know how to update and render itself as well.
+
+Component class - entity owner. virutal update, virtual update, virtual render.
+
+game.cpp holds entity manager. it gets and adds entities. holds a list of entities and each entity updates and renders.
+
+entity holds a list of components. for each component, compnent update, component render.
+---------------------------------------------------------------------------
+
+Assetmanager
+
+class responsible for having lists of all assets. each asset will have an ID and a filepath.
+
+------------------
+
+sprites have dimensions and transparency.
+
+The animation is the row. the different actions are separate by column
+
+----------------------
+
+Maps.
+
+
+Load a a game loop Base Area. accordign to screen resolution. Keep it buffered. Settle camera on it. load / buffer map by chunks according to resolution and camera, feed it chunks when its within proximity of them.
+
+Keep base area loaded at all times... Have data go to cache. whe nthey go back to cache aved  game data like maps, objects. run evidence verification that the cache is accurate, then load the accurate cache files. if not accurate load from server.
+
+Copyright and restricted use to Smokescreenveil
+
